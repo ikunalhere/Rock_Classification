@@ -1,0 +1,10 @@
+scikit-learn
+opencv-python
+kaggle
+pandas
+numpy
+tensorflow-nightly==2.10.0.dev20220427
+keras-nightly==2.10.0.dev2022042807
+tensorflow-addons
+wandb
+keras-cv
